@@ -1,0 +1,71 @@
+GoGaming 项目属于一个Saas平台系统，由一个平台系统及多个模块系统组成
+
+
+汇率服务、SNS服务、KYC 服务、多语言
+
+权限管理：菜单权限、功能权限、数据权限
+
+绑定谷歌验证码、kyc验证、2Fa验证、法币存款、法币提款、调账、划转、提现白名单、数字货币地址管理
+
+基于SignalR实时通讯消息推送系统
+
+基于SignalR实时通讯消息推送系统
+
+geetest 验证码服务
+
+
+
+Health checks in ASP.NET Core 
+
+ASP.NET Core 中的健康狀態檢查 
+
+GitHub - Xabaril/AspNetCore.Diagnostics.HealthChecks: Enterprise HealthChecks for ASP.NET Core Diagnostics Package 
+
+https://codewithmukesh.com/blog/healthchecks-in-aspnet-core-explained/
+
+https://www.learmoreseekmore.com/2020/11/dotnet-app-health-checks.html
+
+
+
+GitHub - Xabaril/AspNetCore.Diagnostics.HealthChecks: Enterprise HealthChecks for ASP.NET Core Diagnostics Package 
+
+Create and send messages - Teams 
+
+ASP.NET Core 2.2 Health Checks Explained_Latest Microsoft Blogs - MdEditor 
+
+How to implement health checks in ASP.Net Core 
+
+
+
+
+
+
+
+
+Quartz.NET 
+
+GitHub - quartznet/quartznet: Quartz Enterprise Scheduler .NET 
+
+GitHub - guryanovev/CrystalQuartz: pluggable UI for Quartz.NET 
+
+Crystal Quartz Docs 
+
+[.NETCore] Quartz.NET 初體驗 
+
+
+
+
+Reference Documents: 
+
+Implement HTTP call retries with exponential backoff with Polly 
+
+Retry pattern - Azure Architecture Center 
+
+GitHub - App-vNext/Polly: Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.  
+
+https://blog.csdn.net/sD7O95O/article/details/114984758
+
+https://blog.csdn.net/qq_34202873/article/details/106475138 
+
+[NETCore] Polly 的超時 TimeOut 和 Wrap 策略 
+ 
